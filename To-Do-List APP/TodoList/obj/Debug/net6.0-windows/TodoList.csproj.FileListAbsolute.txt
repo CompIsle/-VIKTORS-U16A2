@@ -1,0 +1,40 @@
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.exe
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.deps.json
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.runtimeconfig.json
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.dll
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.pdb
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.csproj.AssemblyReference.cache
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\MainWindow.baml
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\App.g.cs
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList_MarkupCompile.cache
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.g.resources
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.AssemblyInfoInputs.cache
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.AssemblyInfo.cs
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.csproj.CoreCompileInputs.cache
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.dll
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\refint\TodoList.dll
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.pdb
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.genruntimeconfig.cache
+C:\RM Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\ref\TodoList.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.exe
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.deps.json
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.runtimeconfig.json
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\bin\Debug\net6.0-windows\TodoList.pdb
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList_MarkupCompile.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.g.resources
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\refint\TodoList.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.pdb
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\TodoList.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\To-Do-List APP\TodoList\obj\Debug\net6.0-windows\ref\TodoList.dll

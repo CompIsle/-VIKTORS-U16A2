@@ -1,0 +1,34 @@
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.exe
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.deps.json
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.runtimeconfig.json
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.dll
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.pdb
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.csproj.AssemblyReference.cache
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.AssemblyInfoInputs.cache
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.AssemblyInfo.cs
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.csproj.CoreCompileInputs.cache
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.dll
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\refint\IndexRef.dll
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.pdb
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.genruntimeconfig.cache
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\ref\IndexRef.dll
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\CsvHelper.dll
+C:\RM Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.csproj.CopyComplete
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.exe
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.deps.json
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.runtimeconfig.json
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\IndexRef.pdb
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.csproj.CopyComplete
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\refint\IndexRef.dll
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.pdb
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\IndexRef.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Desktop\Unit16-As2\IndexRef\IndexRef\obj\Debug\net6.0\ref\IndexRef.dll

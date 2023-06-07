@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fHle6PbWlbUdi2l5p7Kycz33dLSEOd+s/xNVJ3Np/ZH7tRwPrzRSDOAbtyPADXglnnhEl0CPMi6SZKSDZYlsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\OneDrive\\Desktop\\Unit16-As2\\IndexRef\\IndexRef\\IndexRef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

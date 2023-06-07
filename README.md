@@ -1,4 +1,5 @@
 # Unit 16 Object Oriented Progrming A2 - Viktor Salihu
+Images are not available in README.md. You can access the documentation with images in U16A2-VS.MD
 
 
 ## P3 Produce designs for object-oriented programs to solve different problems, which provide an appropriate solution for the client 
